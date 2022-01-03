@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: white;
+}
+#items{
+    display: grid;
+    grid-template-columns: repeat(4, 24%);
+    text-align: center;
+    grid-gap: 20px;
+    
+}img{
+    height: 250px;
+    border-radius: 5px;
+}button{
+    border-radius: 5px;
+    background-color: teal;
+}

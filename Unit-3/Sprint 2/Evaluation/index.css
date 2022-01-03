@@ -1,0 +1,12 @@
+#navBar{
+    margin-top: 50px;
+    text-align: end;
+    background-color: teal;
+    height: 50px;
+    margin: auto;
+    
+}  #navBar > button{
+    margin-right: 50px;
+    margin-top: 15px;
+    border-radius: 5px;   
+} 
